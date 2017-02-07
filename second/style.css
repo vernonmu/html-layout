@@ -1,0 +1,42 @@
+div {
+  float:left;
+  width:100px;
+  box-sizing: border-box;
+  width:250px;
+  font-family: 'helvetica', 'sans-serif';
+}
+
+.long {
+  height:700px;
+
+}
+
+.blue {
+  background-color: #6495ed;
+
+}
+
+.green {
+  background-color:#00ff7f
+}
+
+.yellow {
+  background-color: #fffacd;
+  height:550px;
+
+}
+
+.red {
+
+  background-color:#ff3333;
+  width:100%;
+  vertical-align: bottom;
+  margin-top:550px;
+  height:150px;
+  color:white;
+  text-align: center;
+  padding-top:60px;
+  font-weight:bold;
+  font-size:1.25em;
+
+}
