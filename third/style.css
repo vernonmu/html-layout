@@ -8,18 +8,18 @@ div {
   box-sizing: border-box;
   margin:0;
   font-family: 'helvetica', 'sans-serif';
-  font-weight:100;
+  font-weight:200;
 
 }
 .smallbox {
   background-color:#6495ed;
   width:90px;
   height:90px;
-  margin:15px 15px;
+  margin:15px 25px;
   display:inline-block;
 }
 .top {background-color:#ccc;}
-.content {background-color:white;height:250px;padding:30px;line-height:1.6;font-size:18px;}
+.content {background-color:white;height:250px;padding:35px 50px;line-height:1.4;font-size:18px;}
 
 .blue {
   background-color: #6495ed;
